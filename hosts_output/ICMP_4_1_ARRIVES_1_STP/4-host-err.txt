@@ -1,0 +1,2 @@
+
+(checker.py:9545): dbind-WARNING **: 02:26:21.962: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-yrsWVO5zZb: Connection refused
